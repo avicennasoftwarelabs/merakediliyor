@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://merakediliyor.com/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://avicennasoftwarelabs.github.io/merakediliyor/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://merakediliyor.com/</loc>
+<loc>https://avicennasoftwarelabs.github.io/merakediliyor/</loc>
 </url>
 <url>
-<loc>https://merakediliyor.com/test-page.html</loc>
+<loc>https://avicennasoftwarelabs.github.io/merakediliyor/test-page.html</loc>
 <lastmod>2026-08-03T17:07:46+03:00</lastmod>
 </url>
 </urlset>
