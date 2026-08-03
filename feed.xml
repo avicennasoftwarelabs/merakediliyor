@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Merak Ediliyor</title>
-    <link href="https://avicennasoftwarelabs.github.io/merakediliyor/feed.xml" rel="self" />
-    <link href="https://avicennasoftwarelabs.github.io/merakediliyor" />
+    <link href="https://merakediliyor.com/feed.xml" rel="self" />
+    <link href="https://merakediliyor.com" />
     <updated>2026-08-03T17:07:46+03:00</updated>
     <author>
         <name>Hakan Ertuna</name>
     </author>
-    <id>https://avicennasoftwarelabs.github.io/merakediliyor</id>
+    <id>https://merakediliyor.com</id>
 
     <entry>
         <title>Test Page</title>
         <author>
             <name>Hakan Ertuna</name>
         </author>
-        <link href="https://avicennasoftwarelabs.github.io/merakediliyor/test-page.html"/>
-        <id>https://avicennasoftwarelabs.github.io/merakediliyor/test-page.html</id>
+        <link href="https://merakediliyor.com/test-page.html"/>
+        <id>https://merakediliyor.com/test-page.html</id>
 
         <updated>2026-08-03T17:07:46+03:00</updated>
             <summary type="html">
